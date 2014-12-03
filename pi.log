@@ -1,0 +1,42 @@
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    calculatePi ... 
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    Sum ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    piBean.Value ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Start of calculation  ...509666212445953
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - End of calculation  ...509666245475139
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Total time taken  ...33029186
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    calculatePi ... 
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    Sum ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    piBean.Value ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Start of calculation  ...509918796743758
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - End of calculation  ...509918828637828
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Total time taken  ...31894070
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    calculatePi ... 
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    Sum ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    piBean.Value ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Start of calculation  ...510154662594483
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - End of calculation  ...510154697567117
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Total time taken  ...34972634
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    calculatePi ... 
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    Sum ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    piBean.Value ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Start of calculation  ...510193667795076
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - End of calculation  ...510193701525036
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Total time taken  ...33729960
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    calculatePi ... 
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    Sum ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    piBean.Value ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Start of calculation  ...510193717522566
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - End of calculation  ...510193931861884
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Total time taken  ...214339318
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    calculatePi ... 
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    Sum ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    piBean.Value ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Start of calculation  ...510686227316989
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - End of calculation  ...510686258644118
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Total time taken  ...31327129
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    calculatePi ... 
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    Sum ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl -    piBean.Value ... 3.1415916535897743
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Start of calculation  ...510686275387170
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - End of calculation  ...510686525679057
+DEBUG main com.sarm.calculatepi.calculator.PiCalculatorImpl - Total time taken  ...250291887

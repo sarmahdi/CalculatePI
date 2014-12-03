@@ -5,7 +5,6 @@
  */
 package com.sarm.calculatepi.calculator;
 
-import com.sarm.calculatepi.model.PiObject;
 import com.sarm.calculatepi.view.bean.PiBean;
 import java.math.BigDecimal;
 import org.apache.log4j.Logger;

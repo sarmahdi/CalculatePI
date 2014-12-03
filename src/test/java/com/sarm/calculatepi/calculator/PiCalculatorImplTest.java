@@ -51,7 +51,7 @@ public class PiCalculatorImplTest {
      */
     @Test(expected = AssertionError.class)
     public void testCalculatePiforScale10() {
-        System.out.println("calculatePi");
+        System.out.println("calculatePifor10");
         PiBean piBean = new PiBean();
         piBean.setApproximation(1000000);
         PiCalculatorImpl instance = new PiCalculatorImpl();

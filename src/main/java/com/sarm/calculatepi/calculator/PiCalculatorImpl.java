@@ -11,7 +11,7 @@ import org.apache.log4j.Logger;
 import org.springframework.stereotype.Service;
 
 /**
- *
+ * Implementation of the Service to calculate Pi
  * @author sarm
  */
 @Service(value = "piCalculator")
@@ -20,12 +20,16 @@ public class PiCalculatorImpl implements PiCalculator {
     Logger logger = Logger.getLogger(PiCalculatorImpl.class);
 
    
-
+/**
+ * This method calcualtes the Pi using the Leibniz formula. 
+ * Using the modulus operator it is determined which term are we at, as per the
+ * formula, the fraction is added or subtracted. 
+ * @param piBean
+ * @return 
+ */
     @Override
     public PiBean calculatePi(PiBean piBean) {
         logger.debug("   calculatePi ... ");
-
-        long start = System.nanoTime();
 
         double sum = 0;
         for (int i = 0; i < piBean.getApproximation(); i++) {
@@ -39,14 +43,6 @@ public class PiCalculatorImpl implements PiCalculator {
         sum = sum * 4.0;
 
         piBean.setPiValue(BigDecimal.valueOf(sum));
-        long end = System.nanoTime();
-        logger.debug("   Sum ... " + sum);
-        logger.debug("   piBean.Value ... " + piBean.getPiValue());
-
-        logger.debug("Start of calculation  ..." + start);
-
-        logger.debug("End of calculation  ..." + end);
-        logger.debug("Total time taken  ..." + (end - start));
 
         return piBean;
     }

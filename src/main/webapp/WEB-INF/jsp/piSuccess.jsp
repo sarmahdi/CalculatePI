@@ -30,7 +30,7 @@
                 </tr>
                 <tr>
                     <td colspan="2" align="center">
-                        <h3>Here's the review of ${piBean.approximation}'s Pi Value ...</h3>
+                        <h3>Here's the approximation of Pi over ${piBean.approximation} terms ...</h3>
                     </td>
                 </tr>
                 <tr>

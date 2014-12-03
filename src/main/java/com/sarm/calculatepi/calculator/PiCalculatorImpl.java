@@ -21,7 +21,7 @@ public class PiCalculatorImpl implements PiCalculator {
 
    
 /**
- * This method calcualtes the Pi using the Leibniz formula. 
+ * This method calculates the Pi using the Leibniz formula. 
  * Using the modulus operator it is determined which term are we at, as per the
  * formula, the fraction is added or subtracted. 
  * @param piBean
@@ -40,7 +40,9 @@ public class PiCalculatorImpl implements PiCalculator {
                 sum = sum - (1.0 / (2.0 * i + 1));
             }
         }
-        sum = sum * 4.0;
+//        The sum is actually the value of Pi/4 so we have to multiply by 4 to
+//        get Pi
+        sum = sum * 4.0; 
 
         piBean.setPiValue(BigDecimal.valueOf(sum));
 

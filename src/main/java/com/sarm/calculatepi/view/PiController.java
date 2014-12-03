@@ -17,7 +17,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
- *
+ * This is the controller that the Spring MVC has registered to map the requests
+ * to.
+ * 
  * @author sarm
  */
 @Controller
@@ -43,7 +45,7 @@ public class PiController {
      * This is the main entry point for any user. The welcome-file in web.xml
      * redirect.jsp forwards the request to this handler, which publishes the
      * piapproximationform where a user can enter data. Here a piBean is 
-     * initialized.
+     * initialized and attached to the model.
      *
      * @return
      */

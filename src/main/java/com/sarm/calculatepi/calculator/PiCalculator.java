@@ -8,7 +8,7 @@ package com.sarm.calculatepi.calculator;
 import com.sarm.calculatepi.view.bean.PiBean;
 
 /**
- *
+ * This is the interface for the Calculator Service to calculate Pi.
  * @author sarm
  */
 public interface PiCalculator {

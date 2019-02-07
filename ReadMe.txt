@@ -22,7 +22,7 @@ How to compile:
 In the project root directory
 $PROJECT_ROOT>mvn clean install 
 
-This will also run the Junit text cases.
+This will also run the Junit test cases.
 
 
 Technical Design overview
